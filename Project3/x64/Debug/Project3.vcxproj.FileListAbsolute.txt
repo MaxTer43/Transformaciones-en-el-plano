@@ -1,0 +1,3 @@
+C:\Users\Niro\source\repos\Transformaciones en el plano\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\Niro\source\repos\Transformaciones en el plano\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\Niro\source\repos\Transformaciones en el plano\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
